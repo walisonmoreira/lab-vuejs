@@ -2,6 +2,12 @@
 
 Experimentos com o [Vue.js](https://vuejs.org).
 
+## Páginas
+
+### hello-world.html
+
+Usa o Vue.js carregando um script diretamente no HTML.
+
 ## Labs
 
 * [Lab VuePress](lab-vuepress/readme.md)
@@ -19,6 +25,7 @@ Experimentos com o [Vue.js](https://vuejs.org).
 * [Vue Router](https://router.vuejs.org). SPA com rotas.
 * [Vuex](https://vuex.vuejs.org). Controla os estado da aplicação.
 * [Vuex ORM](https://vuex-orm.github.io/vuex-orm). Plugin do Vuex para habilitar ORM no Vuex Store.
+* [Vuex-ORM GraphQL](https://vuex-orm.github.io/vuex-orm-graphql). Plugin GraphQL para o Vuex-ORM.
 * [Nuxt](https://nuxtjs.org). Aplicações web com Server Side Rendering (SSR).
 * [VuePress](https://vuepress.vuejs.org). Gera sites baseados em Vue.js a partir de documentação markdown.
 * [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders). Mostra um conteúdo falso enquanto os dados são carregados. Content placeholder. Interface preview.
@@ -28,6 +35,7 @@ Experimentos com o [Vue.js](https://vuejs.org).
 
 ## ToDo
 
+* Mover o **lab-vuepress** para um repositório separado no GitHub.
 * Fazer lab para o [Vue Router](https://router.vuejs.org).
 * Fazer lab para o [Vuex](https://vuex.vuejs.org).
 * Fazer lab para o [Vuex ORM](https://vuex-orm.github.io/vuex-orm)
