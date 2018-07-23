@@ -35,6 +35,10 @@ vuepress build
 
 Após a geração do site, o conteúdo HTML estará em `\.vuepress\dist`.
 
+O site terá essa aparêndcia:
+
+![Aparência do site](aparencia-site.png)
+
 ## Links
 
 * [VuePress Guide](https://vuepress.vuejs.org/guide). Guia de utilização do VuePress.
