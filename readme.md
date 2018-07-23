@@ -2,11 +2,9 @@
 
 Experimentos com o [Vue.js](https://vuejs.org).
 
-## Páginas
+## Conteúdo
 
-### hello-world.html
-
-Usa o Vue.js carregando um script diretamente no HTML.
+* [Curso - VueJS 2 - The Complete Guide](curso-vuejs-2-the-complete-guide/readme.md). Código fonte produzido nas aulas do curso.
 
 ## Labs
 
@@ -16,9 +14,9 @@ Usa o Vue.js carregando um script diretamente no HTML.
 
 ### UI Frameworks
 
-* [Vui](http://vui-kit.com). Componentes Vue baseados no Bootstrap 4.
-* [Vuetify](https://vuetifyjs.com). Componentes Vue baseados no Material Design.
-* [Vue Material](https://vuematerial.io). Componentes Vue baseados no Material Design.
+* [Vui](http://vui-kit.com). Componentes Vue.js baseados no Bootstrap 4.
+* [Vuetify](https://vuetifyjs.com). Componentes Vue.js baseados no Material Design.
+* [Vue Material](https://vuematerial.io). Componentes Vue.js baseados no Material Design.
 
 ### Bibliotecas
 
@@ -31,7 +29,14 @@ Usa o Vue.js carregando um script diretamente no HTML.
 * [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders). Mostra um conteúdo falso enquanto os dados são carregados. Content placeholder. Interface preview.
 
 ### Cursos
+
+* [VueJS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide). Curso de Vue.js 2 na Udemy.
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone). Curso de Vuex.
+
+### Outros
+
+* [Made With Vue.js](https://madewithvuejs.com). Sites e apps feitos com Vue.js.
+* [Vue.js Examples](https://vuejsexamples.com). Vários exemplos de Vue.js.
 
 ## ToDo
 
