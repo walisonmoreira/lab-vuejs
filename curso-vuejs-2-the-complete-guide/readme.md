@@ -1,6 +1,6 @@
 # Lab Vue.js - Curso - VueJS 2 - The Complete Guide
 
-Notas e código fonte produzidos nas aulas do curso [*VueJS 2 - The Complete Guide*](https://www.udemy.com/vuejs-2-the-complete-guide) na Udemy.
+Notas e código fonte das aulas do curso [*VueJS 2 - The Complete Guide*](https://www.udemy.com/vuejs-2-the-complete-guide) na Udemy.
 
 ## Seção 01 - Getting Started
 
