@@ -4,7 +4,7 @@ Notas e código fonte produzidos nas aulas do curso [*VueJS 2 - The Complete Gui
 
 ## Seção 01 - Getting Started
 
-### Aula 001 - Course Introduction
+### Aula 001 - [Course Introduction](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/t/lecture/5940912)
 
 Vue.js é um poderoso framework front-end.
 Pode ser usado em:
@@ -40,4 +40,6 @@ Usar Vue.js ao invés de Angular ou React por que:
 
 Para começar com o Vue.js e criar sua primeira página web basta baixar o arquivo `vue.js` ou usar o de algum CDN. Usaremos o [vue.js](https://unpkg.com/vue@2.5.16/dist/vue.js) do UNPKG CDN.
 
-`hello-world.html` - Mostra *Hello World!* através do Vue.js carregado num script diretamente no HTML. Para executar, basta abrir o arquivo em qualquer navegador. Veja comentários no arquivo.
+[`hello-world.html`](secao-01-getting-started/aula-002/hello-world.html) - Mostra *Hello World!* através do Vue.js carregado num script diretamente no HTML. Para executar, basta abrir o arquivo em qualquer navegador. Veja comentários no arquivo.
+
+### Aula 003 - [Extending the VueJS Application](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/t/lecture/5940924)
