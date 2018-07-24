@@ -1,4 +1,4 @@
-# Lab Vue.js - Curso - VueJS 2 - The Complete Guide
+# [Lab Vue.js](../readme.md) - Curso - VueJS 2 - The Complete Guide
 
 Notas e código fonte produzidos nas aulas do curso [*VueJS 2 - The Complete Guide* na Udemy](https://www.udemy.com/vuejs-2-the-complete-guide).
 
