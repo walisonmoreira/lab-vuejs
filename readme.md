@@ -31,6 +31,7 @@ Experimentos com o [Vue.js](https://vuejs.org).
 ### Cursos
 
 * [VueJS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide). Curso de Vue.js 2 na Udemy.
+* [VueJS Tutorial](https://www.tutorialspoint.com/vuejs). Tutorial de Vue.js 2 na Tutorials Point.
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone). Curso de Vuex.
 
 ### Outros

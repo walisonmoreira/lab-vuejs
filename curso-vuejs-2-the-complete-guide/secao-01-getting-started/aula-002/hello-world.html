@@ -4,13 +4,19 @@
   <script src="https://unpkg.com/vue@2.5.16/dist/vue.js"></script>
 </head>
 <body>
+  <!-- Template controlado pela instância do Vue. -->
   <div id="app">
+    <!-- "{{title}}" mostra o valor da propriedade "title" do objeto "data" da instância do Vue. -->
     <p>{{title}}</p>
   </div>
   <script>
+    //Essa instância do Vue é o núcleo da aplicação. Sua principal função é controlar a renderização do template HTML. É necessário passar um objeto para a função construtora.
     new Vue({
+      //A propriedade "el" é muito importante e indica qual parte do HTML estará sobre controle da instância do Vue. O valor de "el" é uma string que identifica o elemento que será controlado. Funciona como um seletor CSS.
       el: '#app',
+      //A propriedade "data" não é uma string. É um objeto que armazena todos os dados usados pela instância do Vue.
       data: {
+        //Uma propriedade qualquer usada no template.
          title: 'Hello World!'
       }
     });
