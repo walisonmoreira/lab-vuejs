@@ -1,6 +1,6 @@
 # Lab Vue.js
 
-Experimentos com o [Vue.js](https://vuejs.org).
+Experimentos com [Vue.js](https://vuejs.org).
 
 ## Conteúdo
 
